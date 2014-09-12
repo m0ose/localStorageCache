@@ -1,0 +1,113 @@
+<html>
+
+
+<head>
+<title>
+cache some of dem files
+</title>
+ <script src="../lib/traceur.min.js"></script>
+ <script src="../lib/bower_components/localforage/dist/localforage.js"></script>
+        <!-- in-browser bootstrap for traceur
+        <script src="lib/bower_components/bootstrap/dist/js/bootstrap.js"></script>
+-->     <script>
+            new traceur.WebPageTranscoder(document.location.href).run();
+            traceur.options.experimental = true;
+          </script>
+
+
+
+
+          <script type="module">
+         
+            import {loadText, loadImg} from "../src/localStorageCache"
+           
+            /***************
+                Test cases
+            */
+
+            window.testcases = {}
+
+            window.testImageLoad = function(){
+              //clear the cache
+              localforage.clear().then(
+                ()=>{
+                  loadImg("../data/data.png", function(e, er) {
+                    window.testcases['goodImageLoad'] = e
+                    printTests()
+
+
+                    //try to load again but this time locally
+                    loadImg("../data/data.png", function(e, er) {
+                      window.testcases['loadImageAgain'] = e
+                      printTests()
+                    })
+                  })
+
+
+                  loadImg("../data/datawak.png", function(e, er) {
+                    window.testcases['badImageLoad'] = er
+                    printTests()
+                  })
+
+                })
+            }
+
+
+            window.testTextLoad = function(){
+               localforage.clear().then(//first clear the cache
+                ()=>{
+                  loadText("../data/data.txt", function(e, er) {
+                    window.testcases['textload'] = e
+                    printTests()
+                    //try to reload of data from local source
+                    loadText("../data/data.txt", function(e, er) {
+                      window.testcases['textLoadAgain'] = e
+                      printTests()
+                    })
+                  })
+
+                  loadText("nonexistant.txt", function(e, er) {
+                    window.testcases['textloadBad'] = er
+                    printTests()
+                  })
+
+                })
+
+              
+            }
+
+            function printTests(){
+              var dv = document.getElementById('tests')
+              dv.innerHTML = " "
+              for(var i in testcases){
+                var t = testcases[i]
+                dv.innerHTML += "--  " + i + " : "
+                if( t){
+                  dv.innerHTML += " passed"
+                }
+                else{
+                  dv.innerHTML += " failed"
+                }
+                dv.innerHTML += " <br>"
+              }
+            }
+          </script>
+</head>
+
+<body>
+<div>
+  <h2>
+File cache test
+  </h2>
+  </div>
+  <a href="javascript:testImageLoad()">test image loading</a>
+  <br>
+  <a href="javascript:testTextLoad()">test text loading</a>
+
+  <div id='tests'>
+  </div>
+  <br>
+</body>
+</html>
+
+

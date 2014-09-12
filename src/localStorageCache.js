@@ -1,89 +1,92 @@
-     export var loadText = function(filename, callback = () => {}) {
+import "../lib/bower_components/localforage/dist/localforage.nopromises"
 
-       localforage.getItem(filename).then((e) => {
-         if (e == null) { //not found locally
-           // Load it from the network
-           var request = new XMLHttpRequest();
 
-           request.open('GET', filename, true);
-           //request.responseType = 'arraybuffer';
+export var loadText = function(filename, callback = () => {}) {
 
-           // When the AJAX state changes, save the thing locally.
-           request.addEventListener('readystatechange', function() {
-             console.log(request)
-             if (request.readyState === 4) { // readyState DONE
-               if (request.status === 200) {
-                 // We store the binary data as-is; this wouldn't work with localStorage.
-                 localforage.setItem(filename, request.response, function() {
-                   console.log(filename, 'saved')
-                   // Photo has been saved, do whatever happens next!
-                 });
+  localforage.getItem(filename).then((e) => {
+    if (e == null) { //not found locally
+      // Load it from the network
+      var request = new XMLHttpRequest();
 
-                 callback(request.response)
-               } else {
-                 console.error('failed to load', filename)
-                 callback(null, request.statusText)
-               }
-             }
-           });
+      request.open('GET', filename, true);
+      //request.responseType = 'arraybuffer';
 
-           request.send()
-         } else { // Found it locally.
-           console.log('found it locally . woopie')
-           callback(e)
-         }
-       })
-     }
+      // When the AJAX state changes, save the thing locally.
+      request.addEventListener('readystatechange', function() {
+        //console.log(request)
+        if (request.readyState === 4) { // readyState DONE
+          if (request.status === 200) {
+            // We store the binary data as-is; this wouldn't work with localStorage.
+            localforage.setItem(filename, request.response, function() {
+              console.log(filename, 'saved')
+              // Photo has been saved, do whatever happens next!
+            });
 
-     export var loadImg = function(filename, callback = () => {}) {
-       localforage.getItem(filename).then(
-         function(e) {
+            callback(request.response)
+          } else {
+            console.error('failed to load', filename)
+            callback(null, request.statusText)
+          }
+        }
+      });
 
-           if (e == null) { //not found locally
-             // Load image over the network
-             var img = new Image()
+      request.send()
+    } else { // Found it locally.
+      console.log('found ', filename, ' locally . woopie')
+      callback(e)
+    }
+  })
+}
 
-             img.onload = function() {
-               var urldata = getURLencode(img)
-               localforage.setItem(filename, urldata).then(
-                 (e) => {
-                   callback(img)
-                 }
-               )
-             }
+export var loadImg = function(filename, callback = () => {}) {
+  localforage.getItem(filename).then(
+    function(e) {
 
-             // call onerror if the image can't be found
-             img.onerror = function(e) {
-               console.error('image failed to load')
-               callback(null, e)
-             }
+      if (e == null) { //not found locally
+        // Load image over the network
+        var img = new Image()
 
-             img.src = filename
-           } else { //found image locally
+        img.onload = function() {
+          var urldata = getURLencode(img)
+          localforage.setItem(filename, urldata).then(
+            (e) => {
+              callback(img)
+            }
+          )
+        }
 
-             var img = new Image()
+        // call onerror if the image can't be found
+        img.onerror = function(e) {
+          console.error('image failed to load')
+          callback(null, e)
+        }
 
-             img.onload = () => {
-               callback(img)
-             }
+        img.src = filename
+      } else { //found image locally
 
-             img.onerror = (e) => {
-               callback(null, e)
-             }
-             // assume it is url encoded              
-             img.src = e
-           }
-         })
-     }
+        var img = new Image()
 
-     var getURLencode = function(img) {
-       var canvas = document.createElement('canvas');
-       canvas.width = img.width;
-       canvas.height = img.height;
-       // Get '2d' context and draw the image.
-       var ctx = canvas.getContext("2d");
-       ctx.drawImage(img, 0, 0);
-       // Get canvas data URL
-       var data = canvas.toDataURL();
-       return data
-     }
+        img.onload = () => {
+          callback(img)
+        }
+
+        img.onerror = (e) => {
+          callback(null, e)
+        }
+        // assume it is url encoded              
+        img.src = e
+      }
+    })
+}
+
+var getURLencode = function(img) {
+  var canvas = document.createElement('canvas');
+  canvas.width = img.width;
+  canvas.height = img.height;
+  // Get '2d' context and draw the image.
+  var ctx = canvas.getContext("2d");
+  ctx.drawImage(img, 0, 0);
+  // Get canvas data URL
+  var data = canvas.toDataURL();
+  return data
+}

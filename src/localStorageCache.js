@@ -63,7 +63,7 @@ export var loadImg = function(filename, callback = () => {}) {
 
         img.src = filename
       } else { //found image locally
-
+        console.log('found ', filename , " locally")
         var img = new Image()
 
         img.onload = () => {

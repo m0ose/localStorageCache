@@ -75,6 +75,12 @@ cache some of dem files
               
             }
 
+            window.runtests = function(){
+              console.log('running tests')
+              testTextLoad()
+              testImageLoad()
+            }
+
             function printTests(){
               var dv = document.getElementById('tests')
               dv.innerHTML = " "
@@ -102,10 +108,13 @@ cache some of dem files
 File cache test
   </h2>
   </div>
+  <button onclick="runtests()">run tests</button>
+  <br>
+  <br>
   <a href="javascript:testImageLoad()">test image loading</a>
   <br>
   <a href="javascript:testTextLoad()">test text loading</a>
-
+  <hr>
   <div id='tests'>
   </div>
   <br>

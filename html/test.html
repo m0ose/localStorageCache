@@ -32,20 +32,20 @@ cache some of dem files
               localforage.clear().then(
                 ()=>{
                   loadImg("../data/data.png", function(e, er) {
-                    window.testcases['goodImageLoad'] = e
+                    window.testcases['Load Image From Network'] = e
                     printTests()
 
 
                     //try to load again but this time locally
                     loadImg("../data/data.png", function(e, er) {
-                      window.testcases['loadImageAgain'] = e
+                      window.testcases['Load Image Again Locally'] = e
                       printTests()
                     })
                   })
 
 
-                  loadImg("../data/datawak.png", function(e, er) {
-                    window.testcases['badImageLoad'] = er
+                  loadImg("nonexistant.png", function(e, er) {
+                    window.testcases['Load Bad Image'] = er
                     printTests()
                   })
 
@@ -57,17 +57,17 @@ cache some of dem files
                localforage.clear().then(//first clear the cache
                 ()=>{
                   loadText("../data/data.txt", function(e, er) {
-                    window.testcases['textload'] = e
+                    window.testcases['Text load'] = e
                     printTests()
                     //try to reload of data from local source
                     loadText("../data/data.txt", function(e, er) {
-                      window.testcases['textLoadAgain'] = e
+                      window.testcases['Text Load Again'] = e
                       printTests()
                     })
                   })
 
                   loadText("nonexistant.txt", function(e, er) {
-                    window.testcases['textloadBad'] = er
+                    window.testcases['Text Load Bad URL'] = er
                     printTests()
                   })
 
@@ -84,6 +84,9 @@ cache some of dem files
                 dv.innerHTML += "--  " + i + " : "
                 if( t){
                   dv.innerHTML += " passed"
+                  if ( i.search('Load Image')>=0 ){
+                    dv.appendChild(t)
+                  }
                 }
                 else{
                   dv.innerHTML += " failed"

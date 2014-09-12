@@ -45,6 +45,7 @@ export var loadImg = function(filename, callback = () => {}) {
       if (e == null) { //not found locally
         // Load image over the network
         var img = new Image()
+        img.crossOrigin = '';
 
         img.onload = function() {
           var urldata = getURLencode(img)

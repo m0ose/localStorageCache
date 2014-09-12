@@ -1,0 +1,3549 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Building Information for Simtable to Use</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>Current Plaza Buildings</name>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 515</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>Plaza, south side</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Turquoise Society House</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Ceremony</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Fair</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Fair</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: Plaza, south side
+Owner or Tenant: Turquoise Society House
+Building Use: Ceremony
+Building Condition: Fair
+Roof Condition: Fair
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34703934192657,35.60835935883694,0.0 -106.3471352310948,35.60819035595034,0.0 -106.34707421064377,35.608174000961114,0.0 -106.34714528913605,35.60804097908937,0.0 -106.34700044989586,35.60798973300005,0.0 -106.34684756398201,35.60829720947935,0.0 -106.34703934192657,35.60835935883694,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 213</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>Plaza, south side</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Laura and Lionel Taylor</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Poor</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Poor</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: Plaza, south side
+Owner or Tenant: Laura and Lionel Taylor
+Building Use: Residence
+Building Condition: Poor
+Roof Condition: Poor
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34683012962341,35.60830375151928,0.0 -106.34689584374428,35.60817291061939,0.0 -106.34678587317467,35.60814129070316,0.0 -106.34677514433861,35.608174000961114,0.0 -106.3467563688755,35.60816963959416,0.0 -106.34670808911324,35.60826558961225,0.0 -106.34683012962341,35.60830375151928,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 212</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>Plaza, south side</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Guadalupe Ortiz</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Fair</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Fair</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: Plaza, south side
+Owner or Tenant: Guadalupe Ortiz
+Building Use: Residence
+Building Condition: Fair
+Roof Condition: Fair
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34676977992058,35.60816091685954,0.0 -106.34681403636932,35.60807477980406,0.0 -106.34671479463577,35.60804534053596,0.0 -106.346665173769,35.60813365830769,0.0 -106.34676977992058,35.60816091685954,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 514</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>Plaza, south side</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Kevin and Ashley Lewis</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>As. Good</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>As. Good</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: Plaza, south side
+Owner or Tenant: Kevin and Ashley Lewis
+Building Use: Residence
+Building Condition: As. Good
+Roof Condition: As. Good
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.3466128706932,35.60823396973263,0.0 -106.3467027246952,35.608043159849,0.0 -106.34659677743912,35.60801044953758,0.0 -106.34651362895966,35.608201259499204,0.0 -106.3466128706932,35.60823396973263,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 211</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>Plaza, south side</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>John Quintana</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Severe</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Poor</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: Plaza, south side
+Owner or Tenant: John Quintana
+Building Use: Residence
+Building Condition: Severe
+Roof Condition: Poor
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34651362895966,35.608201259499204,0.0 -106.34659677743912,35.60801044953758,0.0 -106.34652972221375,35.60798864265581,0.0 -106.3464666903019,35.60796901645719,0.0 -106.3463768362999,35.60815437480794,0.0 -106.34651362895966,35.608201259499204,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 210</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>Plaza, east side</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>John Bowannie</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Poor</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Poor</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: Plaza, east side
+Owner or Tenant: John Bowannie
+Building Use: Residence
+Building Condition: Poor
+Roof Condition: Poor
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34636610746384,35.60838770765068,0.0 -106.346395611763,35.608305932199144,0.0 -106.34627357125277,35.60826777029313,0.0 -106.3462346792221,35.60835063612301,0.0 -106.34636610746384,35.60838770765068,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 209</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>Plaza, east side</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Paul Suina</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>As. Fair</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>As. Fair</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>Yes</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: Plaza, east side
+Owner or Tenant: Paul Suina
+Building Use: Residence
+Building Condition: As. Fair
+Roof Condition: As. Fair
+Pitched Roof?: Yes
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34635001420975,35.60851636752521,0.0 -106.34639158844948,35.60840515306951,0.0 -106.34621188044548,35.608351726462296,0.0 -106.34616628289223,35.60846403133002,0.0 -106.34635001420975,35.60851636752521,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 508</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>Plaza, east side</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Society House - Southeast Side</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Ceremony</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Fair</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Poor</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: Plaza, east side
+Owner or Tenant: Society House - Southeast Side
+Building Use: Ceremony
+Building Condition: Fair
+Roof Condition: Poor
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.3460724055767,35.60847929605716,0.0 -106.34612336754799,35.60834518442631,0.0 -106.34597852826118,35.60830484185922,0.0 -106.34592488408089,35.60844113423388,0.0 -106.3460724055767,35.60847929605716,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 50</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>Plaza, east side</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Bernadette Suina</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Private</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Poor</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Poor</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: Plaza, east side
+Owner or Tenant: Bernadette Suina
+Building Use: Private
+Building Condition: Poor
+Roof Condition: Poor
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34615287184715,35.608600323433514,0.0 -106.34616896510124,35.60855998099507,0.0 -106.34608715772623,35.6085327225792,0.0 -106.34606704115868,35.60857633604012,0.0 -106.34615287184715,35.608600323433514,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 507</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>Plaza, east side</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Society House - East Side</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Ceremony</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>As. Sever</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Poor</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: Plaza, east side
+Owner or Tenant: Society House - East Side
+Building Use: Ceremony
+Building Condition: As. Sever
+Roof Condition: Poor
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34611397981644,35.60872353129521,0.0 -106.34616896510124,35.608604684776985,0.0 -106.3460884988308,35.60858505872945,0.0 -106.34603753685951,35.60870172460786,0.0 -106.34611397981644,35.60872353129521,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 205</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>Plaza, east side</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Trisha Mouquino (Trisha's Sister)</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence </value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Fair</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Fair</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: Plaza, east side
+Owner or Tenant: Trisha Mouquino (Trisha's Sister)
+Building Use: Residence 
+Building Condition: Fair
+Roof Condition: Fair
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34606570005417,35.60879767398783,0.0 -106.34609386324883,35.60873007330027,0.0 -106.34599730372429,35.608695182600485,0.0 -106.3460160791874,35.60866574356069,0.0 -106.34594365954399,35.60864720786341,0.0 -106.34590610861773,35.608747518644456,0.0 -106.34606570005417,35.60879767398783,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 191</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>Plaza, east side</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Bernard Suina</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Fair</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Good</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: Plaza, east side
+Owner or Tenant: Bernard Suina
+Building Use: Residence
+Building Condition: Fair
+Roof Condition: Good
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34593024849892,35.60882384198058,0.0 -106.34595707058907,35.60876714465214,0.0 -106.34590610861773,35.608747518644456,0.0 -106.3459275662899,35.60867664691004,0.0 -106.34580552577972,35.60863521417468,0.0 -106.34575724601746,35.60877586732066,0.0 -106.34593024849892,35.60882384198058,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 208</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>Plaza, east side</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Bernadette Suina</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Good</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Fair</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: Plaza, east side
+Owner or Tenant: Bernadette Suina
+Building Use: Residence
+Building Condition: Good
+Roof Condition: Fair
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34603753685951,35.608657020880166,0.0 -106.3460710644722,35.60858723940166,0.0 -106.34604558348656,35.60851309651403,0.0 -106.34600266814232,35.6085000124679,0.0 -106.34595036506653,35.608628672161856,0.0 -106.34603753685951,35.608657020880166,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 206</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>Plaza, east side</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Andreita Cordero</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Good</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Good</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: Plaza, east side
+Owner or Tenant: Andreita Cordero
+Building Use: Residence
+Building Condition: Good
+Roof Condition: Good
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34595036506653,35.608628672161856,0.0 -106.34599328041077,35.608491289769304,0.0 -106.34571701288223,35.60841496611594,0.0 -106.345674097538,35.608545806619986,0.0 -106.34595036506653,35.608628672161856,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 184</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>Plaza, north side</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Bea Pecos</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Fair</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Fair</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: Plaza, north side
+Owner or Tenant: Bea Pecos
+Building Use: Residence
+Building Condition: Fair
+Roof Condition: Fair
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.3459637761116,35.60894486883568,0.0 -106.34579882025719,35.60889471358462,0.0 -106.34576797485352,35.608984120749376,0.0 -106.34579211473465,35.60899066273312,0.0 -106.34593293070793,35.60902664363416,0.0 -106.3459637761116,35.60894486883568,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 181</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>Plaza, north side</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Tonita Pecos</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence </value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Severe</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Poor</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value>Assessed from exterior only</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: Plaza, north side
+Owner or Tenant: Tonita Pecos
+Building Use: Residence 
+Building Condition: Severe
+Roof Condition: Poor
+Pitched Roof?: No
+Notes: Assessed from exterior only]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34604558348656,35.60896558512589,0.0 -106.34606435894966,35.60890125557567,0.0 -106.34598925709724,35.6088816296009,0.0 -106.3459637761116,35.60894486883568,0.0 -106.34604558348656,35.60896558512589,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 183</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>Plaza, north side</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Jean Quintana</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Severe</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Poor</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: Plaza, north side
+Owner or Tenant: Jean Quintana
+Building Use: Residence
+Building Condition: Severe
+Roof Condition: Poor
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34609386324883,35.609024462973935,0.0 -106.34612873196602,35.608917610550975,0.0 -106.34608045220375,35.608903436239245,0.0 -106.34603753685951,35.60900919835081,0.0 -106.34609386324883,35.609024462973935,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 179</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>Plaza, north side</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Mary O'Chalan</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence </value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Severe</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Poor</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: Plaza, north side
+Owner or Tenant: Mary O'Chalan
+Building Use: Residence 
+Building Condition: Severe
+Roof Condition: Poor
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34615018963814,35.60900592735978,0.0 -106.34617701172829,35.60892524287163,0.0 -106.34612873196602,35.608917610550975,0.0 -106.34610190987587,35.60899829504683,0.0 -106.34615018963814,35.60900592735978,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 503</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>Plaza, north side</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>?</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>As. Good</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>As. Good</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: Plaza, north side
+Owner or Tenant: ?
+Building Use: Residence
+Building Condition: As. Good
+Roof Condition: As. Good
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34624138474464,35.60914876051092,0.0 -106.34631112217903,35.608996114385846,0.0 -106.34618371725082,35.60895577214699,0.0 -106.34611263871193,35.609107328020045,0.0 -106.34624138474464,35.60914876051092,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 171</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>Plaza, north side</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Jose Herrera</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Poor</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Fair</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: Plaza, north side
+Owner or Tenant: Jose Herrera
+Building Use: Residence
+Building Condition: Poor
+Roof Condition: Fair
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.3464304804802,35.609205457568905,0.0 -106.34650155901909,35.60906589550773,0.0 -106.34633257985115,35.60901028868116,0.0 -106.34625613689423,35.60916075412268,0.0 -106.3464304804802,35.609205457568905,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 501</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>Plaza, north side</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>?</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>As. Good</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>As. Good</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: Plaza, north side
+Owner or Tenant: ?
+Building Use: Residence
+Building Condition: As. Good
+Roof Condition: As. Good
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.3464666903019,35.60924034804616,0.0 -106.3465565443039,35.609075708473114,0.0 -106.3465042412281,35.60905717287081,0.0 -106.34641572833061,35.609221812482005,0.0 -106.3464666903019,35.60924034804616,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 201</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>Plaza, north side</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Cippy Crazy Horse</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Fair</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Fair</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: Plaza, north side
+Owner or Tenant: Cippy Crazy Horse
+Building Use: Residence
+Building Condition: Fair
+Roof Condition: Fair
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34659677743912,35.60931012895502,0.0 -106.34671077132225,35.60911932163805,0.0 -106.3465565443039,35.609075708473114,0.0 -106.34646132588387,35.60925561262519,0.0 -106.34659677743912,35.60931012895502,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 202</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>Plaza, west side</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Tim Herrera</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Fair</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Fair</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>Yes</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: Plaza, west side
+Owner or Tenant: Tim Herrera
+Building Use: Residence
+Building Condition: Fair
+Roof Condition: Fair
+Pitched Roof?: Yes
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34679526090622,35.608871816611725,0.0 -106.3465940952301,35.60882384198058,0.0 -106.3465404510498,35.60894486883568,0.0 -106.34674295783043,35.608997204716324,0.0 -106.34679526090622,35.608871816611725,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 522</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>Plaza, west side</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Ray Bird</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Good</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Good</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: Plaza, west side
+Owner or Tenant: Ray Bird
+Building Use: Residence
+Building Condition: Good
+Roof Condition: Good
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34670674800873,35.608835835641045,0.0 -106.34675100445747,35.60872680229782,0.0 -106.34662494063372,35.60868209858415,0.0 -106.34657397866249,35.60878458998824,0.0 -106.34670674800873,35.608835835641045,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 517</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>Plaza, west side</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Society House</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Ceremony</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Good</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Fair</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: Plaza, west side
+Owner or Tenant: Society House
+Building Use: Ceremony
+Building Condition: Good
+Roof Condition: Fair
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34691998362541,35.6087595123164,0.0 -106.34697362780571,35.60864175618695,0.0 -106.34663164615631,35.60851854819928,0.0 -106.34656995534897,35.6086330335038,0.0 -106.34691998362541,35.6087595123164,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 516</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>Plaza, west side</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Language Nest</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Education</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Good</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Fair</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: Plaza, west side
+Owner or Tenant: Language Nest
+Building Use: Education
+Building Condition: Good
+Roof Condition: Fair
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34697362780571,35.60864175618695,0.0 -106.3470621407032,35.60849565111873,0.0 -106.34694144129753,35.60845312795174,0.0 -106.34685963392258,35.608594871753816,0.0 -106.34697362780571,35.60864175618695,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 509</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>East, east of plaza area</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Church</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Religion</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Good</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>As. Fair</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: East, east of plaza area
+Owner or Tenant: Church
+Building Use: Religion
+Building Condition: Good
+Roof Condition: As. Fair
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34611934423447,35.60823615041438,0.0 -106.34617164731026,35.608110761117,0.0 -106.34578540921211,35.60799191368847,0.0 -106.34549036622047,35.60792104128469,0.0 -106.34541928768158,35.60809331563394,0.0 -106.34570628404617,35.60817509130282,0.0 -106.34572371840477,35.608127116253875,0.0 -106.34611934423447,35.60823615041438,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 520</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>West, between Turquoise and Pumpkin</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Pumpkin Society House</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Ceremony</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>As. Fair</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Good</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: West, between Turquoise and Pumpkin
+Owner or Tenant: Pumpkin Society House
+Building Use: Ceremony
+Building Condition: As. Fair
+Roof Condition: Good
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34713858366013,35.60917165740455,0.0 -106.34723782539368,35.608992843394255,0.0 -106.34705275297165,35.60893069452879,0.0 -106.34695619344711,35.60910296670398,0.0 -106.34713858366013,35.60917165740455,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 82</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>West, between Turquoise and Pumpkin</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Reycita Bird</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>As. Poor</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>As. Fair</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>Yes</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: West, between Turquoise and Pumpkin
+Owner or Tenant: Reycita Bird
+Building Use: Residence
+Building Condition: As. Poor
+Roof Condition: As. Fair
+Pitched Roof?: Yes
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34679928421974,35.609456232535805,0.0 -106.34685426950455,35.60933738710602,0.0 -106.34672150015831,35.609295954712834,0.0 -106.34666115045547,35.609409348580016,0.0 -106.34679928421974,35.609456232535805,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 86</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>West, between Turquoise and Pumpkin</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Andy Quintana</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Fair</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Fair</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>Yes</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: West, between Turquoise and Pumpkin
+Owner or Tenant: Andy Quintana
+Building Use: Residence
+Building Condition: Fair
+Roof Condition: Fair
+Pitched Roof?: Yes
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34664908051491,35.60968301965508,0.0 -106.34675368666649,35.60951074872895,0.0 -106.34656324982643,35.60943006474992,0.0 -106.3464680314064,35.60961105842726,0.0 -106.34664908051491,35.60968301965508,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 530</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>North, between Kiva and Cedar</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>West Kiva - Pumpkin Kiva</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Ceremony</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Poor</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Poor</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: North, between Kiva and Cedar
+Owner or Tenant: West Kiva - Pumpkin Kiva
+Building Use: Ceremony
+Building Condition: Poor
+Roof Condition: Poor
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34644791483879,35.609456232535805,0.0 -106.34647205471992,35.609439877670624,0.0 -106.34649083018303,35.6094028066305,0.0 -106.34647339582443,35.6093646452477,0.0 -106.34644120931625,35.60933629678014,0.0 -106.34638220071793,35.609334116128394,0.0 -106.34633392095566,35.60935810329455,0.0 -106.34631648659706,35.60939844533054,0.0 -106.34634733200073,35.60945296156304,0.0 -106.346395611763,35.6094704067496,0.0 -106.34644791483879,35.609456232535805,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 164</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>North, between Kiva and Cedar</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Felicita Eustace</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Good</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Good</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value>Good after construction</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: North, between Kiva and Cedar
+Owner or Tenant: Felicita Eustace
+Building Use: Residence
+Building Condition: Good
+Roof Condition: Good
+Pitched Roof?: No
+Notes: Good after construction]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34623602032661,35.60938754207956,0.0 -106.34623736143112,35.60937990980302,0.0 -106.34625345468521,35.60933302580247,0.0 -106.34612873196602,35.60930031601839,0.0 -106.3461072742939,35.60934501938663,0.0 -106.34623602032661,35.60938754207956,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 165</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>North, between Kiva and Cedar</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Vince (Earl) Romero</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Fair</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Poor</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: North, between Kiva and Cedar
+Owner or Tenant: Vince (Earl) Romero
+Building Use: Residence
+Building Condition: Fair
+Roof Condition: Poor
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.346036195755,35.60937336785111,0.0 -106.3460710644722,35.60928505144791,0.0 -106.34586721658707,35.60923162542828,0.0 -106.34583368897438,35.60931012895502,0.0 -106.346036195755,35.60937336785111,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 166</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>North, between Kiva and Cedar</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Franco Chavez</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Fair</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Fair</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: North, between Kiva and Cedar
+Owner or Tenant: Franco Chavez
+Building Use: Residence
+Building Condition: Fair
+Roof Condition: Fair
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34583368897438,35.609299225692034,0.0 -106.34586319327354,35.60922399313686,0.0 -106.34578004479408,35.609204367241254,0.0 -106.34575188159943,35.60927414818151,0.0 -106.34583368897438,35.609299225692034,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 168</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>North, between Kiva and Cedar</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Arquero</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>As. Poor</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>As. Fair</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value>Assessed from exterior only</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: North, between Kiva and Cedar
+Owner or Tenant: Arquero
+Building Use: Residence
+Building Condition: As. Poor
+Roof Condition: As. Fair
+Pitched Roof?: No
+Notes: Assessed from exterior only]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34563654661179,35.60921527051717,0.0 -106.34566873311996,35.60914112821158,0.0 -106.34560972452164,35.60913240558288,0.0 -106.34555339813232,35.609116050651494,0.0 -106.34552791714668,35.609188012324566,0.0 -106.34563654661179,35.60921527051717,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 531</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>North, between Kiva and Cedar</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>East Kiva - Turquoise Kiva</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Ceremony</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Fair</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Fair</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: North, between Kiva and Cedar
+Owner or Tenant: East Kiva - Turquoise Kiva
+Building Use: Ceremony
+Building Condition: Fair
+Roof Condition: Fair
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34533479809761,35.60925561262519,0.0 -106.34530663490295,35.60924252870048,0.0 -106.34526506066322,35.60924143837333,0.0 -106.34523153305054,35.609259973932936,0.0 -106.34521007537842,35.609282870794736,0.0 -106.3452060520649,35.60931230960746,0.0 -106.34521409869194,35.60934065808352,0.0 -106.34523823857307,35.60936246459672,0.0 -106.34527444839478,35.609375548501816,0.0 -106.34530529379845,35.60937118720035,0.0 -106.3453508913517,35.609353741992145,0.0 -106.3453683257103,35.609319941890455,0.0 -106.34537234902382,35.609290503080565,0.0 -106.34535759687424,35.60927741916158,0.0 -106.34533479809761,35.60925561262519,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 504</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>North, between Kiva and Cedar</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Evangeline Suina (Piki HouseP</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Private</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value></value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Poor</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: North, between Kiva and Cedar
+Owner or Tenant: Evangeline Suina (Piki HouseP
+Building Use: Private
+Building Condition: 
+Roof Condition: Poor
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34586051106453,35.60944314864395,0.0 -106.34588062763214,35.60938209045352,0.0 -106.34580552577972,35.60936246459672,0.0 -106.34577870368958,35.609425703451436,0.0 -106.34586051106453,35.60944314864395,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 182</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>North, between Kiva and Cedar</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Karen Herrera</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Private</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Poor</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Poor</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: North, between Kiva and Cedar
+Owner or Tenant: Karen Herrera
+Building Use: Private
+Building Condition: Poor
+Roof Condition: Poor
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34559765458107,35.60936791622411,0.0 -106.34561911225319,35.60931121928125,0.0 -106.34549841284752,35.609279599814876,0.0 -106.34547829627991,35.60934283873511,0.0 -106.34559765458107,35.60936791622411,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 78</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>West, between Turquoise and Pumpkin</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Martha Arquero</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>As. Good</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>As. Good</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: West, between Turquoise and Pumpkin
+Owner or Tenant: Martha Arquero
+Building Use: Residence
+Building Condition: As. Good
+Roof Condition: As. Good
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34761869907379,35.60893069452879,0.0 -106.3476736843586,35.60881293865131,0.0 -106.34751945734024,35.6087627833175,0.0 -106.34746044874191,35.6088816296009,0.0 -106.34761869907379,35.60893069452879,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 79</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>West, between Turquoise and Pumpkin</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Adam Suina</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Poor</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Poor</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: West, between Turquoise and Pumpkin
+Owner or Tenant: Adam Suina
+Building Use: Residence
+Building Condition: Poor
+Roof Condition: Poor
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.3472592830658,35.60889144258888,0.0 -106.34731560945511,35.60879113198831,0.0 -106.34721100330353,35.60875187997991,0.0 -106.34715735912323,35.60885655195947,0.0 -106.3472592830658,35.60889144258888,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 21</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>South, south of Squirrel</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Geraldine Marie Pecos</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Fair</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Poor</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: South, south of Squirrel
+Owner or Tenant: Geraldine Marie Pecos
+Building Use: Residence
+Building Condition: Fair
+Roof Condition: Poor
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.3475838303566,35.60719595847,0.0 -106.34761869907379,35.60712072393703,0.0 -106.34744703769684,35.607064025401634,0.0 -106.34741082787514,35.60714144069953,0.0 -106.3475838303566,35.60719595847,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 22</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>South, south of Squirrel</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Caroline Pecos</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Fair</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Good</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: South, south of Squirrel
+Owner or Tenant: Caroline Pecos
+Building Use: Residence
+Building Condition: Fair
+Roof Condition: Good
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34650021791458,35.607415119532504,0.0 -106.34653642773628,35.60731044566708,0.0 -106.34634733200073,35.60725265691191,0.0 -106.34630709886551,35.60735296944142,0.0 -106.34650021791458,35.607415119532504,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 83</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>West, between Pumpkin and Pueblo</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Fabian Herrera</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Severe</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Poor</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: West, between Pumpkin and Pueblo
+Owner or Tenant: Fabian Herrera
+Building Use: Residence
+Building Condition: Severe
+Roof Condition: Poor
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34781450033188,35.60970809703746,0.0 -106.34788691997528,35.609605606816466,0.0 -106.34775415062904,35.60954454875006,0.0 -106.34768441319466,35.609645948727625,0.0 -106.34781450033188,35.60970809703746,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 88</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>West, between Pumpkin and Pueblo</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Michael Quintana</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Good</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Good</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: West, between Pumpkin and Pueblo
+Owner or Tenant: Michael Quintana
+Building Use: Residence
+Building Condition: Good
+Roof Condition: Good
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34702056646347,35.61008534714536,0.0 -106.34711444377899,35.60988472881235,0.0 -106.34690523147583,35.60982367095896,0.0 -106.3468086719513,35.610013386279405,0.0 -106.34702056646347,35.61008534714536,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 162</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>North, north of Cedar</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Esther Quintana</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Poor</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Good</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: North, north of Cedar
+Owner or Tenant: Esther Quintana
+Building Use: Residence
+Building Condition: Poor
+Roof Condition: Good
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34548902511597,35.6096437680843,0.0 -106.3455305993557,35.60953473584215,0.0 -106.34536027908325,35.609497664845996,0.0 -106.34532541036606,35.609603426172015,0.0 -106.34548902511597,35.6096437680843,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 163</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>North, north of Cedar</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Regina Herrera</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>As. Good</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>As. Good</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>Yes</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: North, north of Cedar
+Owner or Tenant: Regina Herrera
+Building Use: Residence
+Building Condition: As. Good
+Roof Condition: As. Good
+Pitched Roof?: Yes
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34618371725088,35.609659032586336,0.0 -106.34609118103987,35.609561993916635,0.0 -106.34597986936569,35.609621961647754,0.0 -106.34605631232262,35.60971790992407,0.0 -106.34618371725088,35.609659032586336,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 169</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>North, north of Cedar</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Joseph Montoya</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>As. Fair</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Good</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value>Assessed from exterior only</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: North, north of Cedar
+Owner or Tenant: Joseph Montoya
+Building Use: Residence
+Building Condition: As. Fair
+Roof Condition: Good
+Pitched Roof?: No
+Notes: Assessed from exterior only]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34507864713669,35.60958598101447,0.0 -106.34512692689896,35.609424613126784,0.0 -106.34496331214905,35.60939844533054,0.0 -106.34491235017776,35.609547819719076,0.0 -106.34507864713669,35.60958598101447,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 170</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>North, north of Cedar</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Evelina Montoya</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>As. Fair/ As. Sever</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Good</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value>Assessed from exterior only</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: North, north of Cedar
+Owner or Tenant: Evelina Montoya
+Building Use: Residence
+Building Condition: As. Fair/ As. Sever
+Roof Condition: Good
+Pitched Roof?: No
+Notes: Assessed from exterior only]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34487479925156,35.60954672939608,0.0 -106.34493246674538,35.60938754207956,0.0 -106.34486272931099,35.609374458176475,0.0 -106.34480774402618,35.609531464872596,0.0 -106.34487479925156,35.60954672939608,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 192</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>East, east of plaza area</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Mary O'Chalan</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Poor</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Poor</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: East, east of plaza area
+Owner or Tenant: Mary O'Chalan
+Building Use: Residence
+Building Condition: Poor
+Roof Condition: Poor
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34544745087624,35.60885219062974,0.0 -106.34548500180244,35.6087715059865,0.0 -106.34532809257507,35.60872789263199,0.0 -106.34529992938042,35.60880857731919,0.0 -106.34544745087624,35.60885219062974,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 194</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>East, east of plaza area</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Simon and Ruth Suina</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Fair</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Poor</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: East, east of plaza area
+Owner or Tenant: Simon and Ruth Suina
+Building Use: Residence
+Building Condition: Fair
+Roof Condition: Poor
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34465083479881,35.609107328020045,0.0 -106.34468302130699,35.60900156603817,0.0 -106.34448051452637,35.6089492301604,0.0 -106.3444335758686,35.60905499221143,0.0 -106.34465083479881,35.609107328020045,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 195</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>East, east of plaza area</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Ray Gallegos</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>As. Poor</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>As. Poor</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: East, east of plaza area
+Owner or Tenant: Ray Gallegos
+Building Use: Residence
+Building Condition: As. Poor
+Roof Condition: As. Poor
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.3443973660469,35.60859705242574,0.0 -106.34446442127228,35.6084204178079,0.0 -106.3443249464035,35.60838552697305,0.0 -106.34425520896912,35.60856216166794,0.0 -106.3443973660469,35.60859705242574,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 178</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>North, north of Cedar</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Cippy Crazy Horse Shop</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Private</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value></value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Poor</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>Yes</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: North, north of Cedar
+Owner or Tenant: Cippy Crazy Horse Shop
+Building Use: Private
+Building Condition: 
+Roof Condition: Poor
+Pitched Roof?: Yes
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34570091962814,35.609765884019076,0.0 -106.34576261043549,35.60957834875686,0.0 -106.34556412696838,35.60953255519583,0.0 -106.34550243616104,35.60970918735825,0.0 -106.34570091962814,35.609765884019076,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 196</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>East, east of plaza area </value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Jerry Smith</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>As. Fair</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>As. Fair</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: East, east of plaza area 
+Owner or Tenant: Jerry Smith
+Building Use: Residence
+Building Condition: As. Fair
+Roof Condition: As. Fair
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34434372186661,35.60879113198831,0.0 -106.34439468383789,35.608666833895704,0.0 -106.34422302246094,35.60863630451009,0.0 -106.34417474269867,35.60875406064756,0.0 -106.34434372186661,35.60879113198831,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 197</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>East, east of plaza area</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Josephine Arquero</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Good</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Fair</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: East, east of plaza area
+Owner or Tenant: Josephine Arquero
+Building Use: Residence
+Building Condition: Good
+Roof Condition: Fair
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34498208761215,35.608996114385846,0.0 -106.34505182504654,35.60880857731919,0.0 -106.34484261274338,35.60876496398485,0.0 -106.34478360414505,35.60893941717949,0.0 -106.34498208761215,35.608996114385846,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 198</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>East, east of plaza area</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Isaac Herrera</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Poor</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Poor</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>Yes</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: East, east of plaza area
+Owner or Tenant: Isaac Herrera
+Building Use: Residence
+Building Condition: Poor
+Roof Condition: Poor
+Pitched Roof?: Yes
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34486138820648,35.608675556575164,0.0 -106.34489089250565,35.60856870368618,0.0 -106.34483188390732,35.60855998099507,0.0 -106.34474605321884,35.60854471628332,0.0 -106.34471386671066,35.6086406658516,0.0 -106.34486138820648,35.608675556575164,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Polygon 57</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value></value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value></value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value></value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value></value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value></value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value></value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: 
+Owner or Tenant: 
+Building Use: 
+Building Condition: 
+Roof Condition: 
+Pitched Roof?: 
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34463340044022,35.608871816611725,0.0 -106.34466022253036,35.60876932531934,0.0 -106.34453684091568,35.608747518644456,0.0 -106.34450733661652,35.60883474530835,0.0 -106.34463340044022,35.608871816611725,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 207</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>East, east of plaza area</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Mary and Dennis Anderson</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence </value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Fair</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Good</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: East, east of plaza area
+Owner or Tenant: Mary and Dennis Anderson
+Building Use: Residence 
+Building Condition: Fair
+Roof Condition: Good
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34550243616104,35.608228518028,0.0 -106.34539783000946,35.60840079171518,0.0 -106.3455855846405,35.60846839268095,0.0 -106.345674097538,35.60828085437723,0.0 -106.34550243616104,35.608228518028,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 216</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>East, east of plaza area</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Isaac Herrera</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Poor</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Poor</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: East, east of plaza area
+Owner or Tenant: Isaac Herrera
+Building Use: Residence
+Building Condition: Poor
+Roof Condition: Poor
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34459048509598,35.60844440524801,0.0 -106.34463608264923,35.60833537137132,0.0 -106.34446978569031,35.608287396418504,0.0 -106.3444322347641,35.60838116561762,0.0 -106.34459048509598,35.60844440524801,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 221</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>West, between Turquoise and Pumpkin</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Bernard Melchor</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>As. Fair</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>As, Fair</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: West, between Turquoise and Pumpkin
+Owner or Tenant: Bernard Melchor
+Building Use: Residence
+Building Condition: As. Fair
+Roof Condition: As, Fair
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34804517030716,35.60914876051092,0.0 -106.34812831878662,35.6090048370294,0.0 -106.3479620218277,35.6089481398292,0.0 -106.34789764881134,35.60909206341275,0.0 -106.34804517030716,35.60914876051092,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 233</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>West, between Cochiti and Turquoise</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Trini Herrera</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Good</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Good</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>Yes</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: West, between Cochiti and Turquoise
+Owner or Tenant: Trini Herrera
+Building Use: Residence
+Building Condition: Good
+Roof Condition: Good
+Pitched Roof?: Yes
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34756237268448,35.607982100590164,0.0 -106.34764015674591,35.607829452239116,0.0 -106.34744971990585,35.60776403142809,0.0 -106.34737461805344,35.607923221974985,0.0 -106.34756237268448,35.607982100590164,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 505n</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>North, north of Cedar</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Piki House</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Community</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Good</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Good</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: North, north of Cedar
+Owner or Tenant: Piki House
+Building Use: Community
+Building Condition: Good
+Roof Condition: Good
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34517788887024,35.609707006716654,0.0 -106.3451886177063,35.60965467130034,0.0 -106.34509474039078,35.6096437680843,0.0 -106.3450813293457,35.60969174222375,0.0 -106.34517788887024,35.609707006716654,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 505s</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>North, north of Cedar</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Community Kitchen</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Community</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Good</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Good</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: North, north of Cedar
+Owner or Tenant: Community Kitchen
+Building Use: Community
+Building Condition: Good
+Roof Condition: Good
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34522885084152,35.60960887778299,0.0 -106.34523421525955,35.609591432626615,0.0 -106.34526908397675,35.609456232535805,0.0 -106.34515911340714,35.6094366066972,0.0 -106.34511888027191,35.60958052940197,0.0 -106.34522885084152,35.60960887778299,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 506</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>East, east of the plaza area</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>unknown</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Poor</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Poor</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: East, east of the plaza area
+Owner or Tenant: unknown
+Building Use: Residence
+Building Condition: Poor
+Roof Condition: Poor
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34451806545258,35.60878240932145,0.0 -106.34453684091568,35.608747518644456,0.0 -106.3443973660469,35.60871262795227,0.0 -106.34437590837479,35.6087627833175,0.0 -106.34451806545258,35.60878240932145,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 510</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>South, south of Squirrel</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Marie Arquero</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Fair</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Fair</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>Yes</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: South, south of Squirrel
+Owner or Tenant: Marie Arquero
+Building Use: Residence
+Building Condition: Fair
+Roof Condition: Fair
+Pitched Roof?: Yes
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34572371840477,35.60758303357219,0.0 -106.34576797485352,35.607481630979976,0.0 -106.34562715888023,35.60743692657055,0.0 -106.345584243536,35.607543780971085,0.0 -106.34572371840477,35.60758303357219,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 511</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>South, south of Squirrel</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Daniel Arquero</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Good</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Fair</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>Yes</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: South, south of Squirrel
+Owner or Tenant: Daniel Arquero
+Building Use: Residence
+Building Condition: Good
+Roof Condition: Fair
+Pitched Roof?: Yes
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34586721658707,35.60752960641595,0.0 -106.34578809142113,35.60766590011125,0.0 -106.34594097733498,35.60772368856795,0.0 -106.34602278470993,35.6075873949711,0.0 -106.34586721658707,35.60752960641595,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 512</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>South, south of Squirrel</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Society House</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Ceremony</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>As. Fair</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>As. Fair</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: South, south of Squirrel
+Owner or Tenant: Society House
+Building Use: Ceremony
+Building Condition: As. Fair
+Roof Condition: As. Fair
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34717613458633,35.6075873949711,0.0 -106.3472418487072,35.6074456493841,0.0 -106.34697765111923,35.60736496332242,0.0 -106.3469186425209,35.60749689589454,0.0 -106.34717613458633,35.6075873949711,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 513</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>South, south of Squirrel</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Justo Perez (deceased)</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Private</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Severe</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Poor</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: South, south of Squirrel
+Owner or Tenant: Justo Perez (deceased)
+Building Use: Private
+Building Condition: Severe
+Roof Condition: Poor
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.3468649983406,35.60749907659639,0.0 -106.34689450263977,35.60742275199649,0.0 -106.34681940078735,35.607404216011226,0.0 -106.34678989648819,35.607473998521584,0.0 -106.3468649983406,35.60749907659639,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 519</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>West, between Cochiti and Turquoise</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Weight Room</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Community</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>As. Good</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>As. Good</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: West, between Cochiti and Turquoise
+Owner or Tenant: Weight Room
+Building Use: Community
+Building Condition: As. Good
+Roof Condition: As. Good
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34774878621101,35.60860141376939,0.0 -106.3478010892868,35.6085000124679,0.0 -106.34767234325409,35.60845857964106,0.0 -106.34761735796928,35.60856216166794,0.0 -106.34774878621101,35.60860141376939,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 521</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>West, between Pumpkin and Pueblo</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Mavis Hererra</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>As. Fair</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>As. Fair</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: West, between Pumpkin and Pueblo
+Owner or Tenant: Mavis Hererra
+Building Use: Residence
+Building Condition: As. Fair
+Roof Condition: As. Fair
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34766831994057,35.60989236104074,0.0 -106.34761869907379,35.60972990345052,0.0 -106.3473692536354,35.60977678721848,0.0 -106.34738802909851,35.609893451359014,0.0 -106.3475127518177,35.60991198676755,0.0 -106.34766831994057,35.60989236104074,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 523</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>West, between Cochiti and Turquoise</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Library</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Education</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Good</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>As. Good</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>Yes</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: West, between Cochiti and Turquoise
+Owner or Tenant: Library
+Building Use: Education
+Building Condition: Good
+Roof Condition: As. Good
+Pitched Roof?: Yes
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34812295436859,35.60873007330027,0.0 -106.34820610284805,35.60857524570389,0.0 -106.3479432463646,35.60847929605716,0.0 -106.3478547334671,35.60862976249737,0.0 -106.34812295436859,35.60873007330027,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 187</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>North, north of Cedar</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Karen Eustace</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Residence</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value>Good</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>Good</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value>Good after contruction</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: North, north of Cedar
+Owner or Tenant: Karen Eustace
+Building Use: Residence
+Building Condition: Good
+Roof Condition: Good
+Pitched Roof?: No
+Notes: Good after contruction]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34440273046494,35.609665574514885,0.0 -106.34446710348129,35.609508568081935,0.0 -106.34436786174774,35.609497664845996,0.0 -106.34430348873138,35.609637226153964,0.0 -106.34440273046494,35.609665574514885,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-000000-4-76</styleUrl>
+				<name>Building 194.5 (194s)</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Location</displayName>
+						<value>East, east of plaza area</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Owner or Tenant</displayName>
+						<value>Simon and Ruth Suina</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Use</displayName>
+						<value>Private</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Building Condition</displayName>
+						<value></value>
+					</Data>
+					<Data name='string'>
+						<displayName>Roof Condition</displayName>
+						<value>As. Poor</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Pitched Roof?</displayName>
+						<value>No</value>
+					</Data>
+					<Data name='string'>
+						<displayName>Notes</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Location: East, east of plaza area
+Owner or Tenant: Simon and Ruth Suina
+Building Use: Private
+Building Condition: 
+Roof Condition: As. Poor
+Pitched Roof?: No
+Notes: ]]></description>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>0</tessellate>
+							<coordinates>-106.34437054395676,35.60897866909586,0.0 -106.34439200162888,35.60891324922455,0.0 -106.34430348873138,35.60889144258888,0.0 -106.34428471326828,35.60895468181592,0.0 -106.34437054395676,35.60897866909586,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Style id='poly-000000-4-76'>
+			<LineStyle>
+				<color>ff000000</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4C000000</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+	</Document>
+</kml>

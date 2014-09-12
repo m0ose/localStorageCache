@@ -29,3 +29,8 @@ Usage:
 
 ```
 
+Try the test script:
+====================
+[http://m0ose.github.io/localStorageCache/html/test.html](http://m0ose.github.io/localStorageCache/html/test.html)
+
+

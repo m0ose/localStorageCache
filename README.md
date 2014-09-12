@@ -9,9 +9,8 @@ Usage:
     // Load an image
     //
     loadImg("../data/data.png", function(e, er) {
-      //do something with the image
-    
       if(!er){
+        //do something with the image
         document.body.appendChild(e)
       }
     })

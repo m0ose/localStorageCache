@@ -2,24 +2,17 @@
 
 
 <head>
+<script type="text/javascript" src="../lib/bower_components/localforage/dist/localforage.min.js"></script>
+<script src="../src/LocalStorageVanillaJS.js"></script>
 <title>
 cache some of dem files
 </title>
- <script src="../lib/traceur.min.js"></script>
- <!--<script src="../lib/bower_components/localforage/dist/localforage.nopromises.js"></script>-->
-        <!-- in-browser bootstrap for traceur
-        <script src="lib/bower_components/bootstrap/dist/js/bootstrap.js"></script>
--->     <script>
-            new traceur.WebPageTranscoder(document.location.href).run();
-            traceur.options.experimental = true;
-          </script>
 
 
 
 
-          <script type="module">
+          <script >
          
-            import {loadText, loadImg} from "../src/LocalStorageCache"
             /***************
                 Test cases
             */
@@ -29,7 +22,7 @@ cache some of dem files
             window.testImageLoad = function(){
               //clear the cache
               localforage.removeItem('../data/data.png').then(
-                ()=>{
+                function(){
                   loadImg("../data/data.png", function(e, er) {
                     window.testcases['Load Image From Network'] = e
                     printTests()
@@ -54,7 +47,7 @@ cache some of dem files
 
             window.testTextLoad = function(){
                localforage.removeItem('../data/data.txt').then(//first clear the cache
-                ()=>{
+                function(){
                   loadText("../data/data.txt", function(e, er) {
                     window.testcases['Text load'] = e
                     printTests()

@@ -1,6 +1,6 @@
 
 
-function loadText(filename, callback ) {
+function loadText(filename, callback, dataType ) {
 
   callback = callback || function(e){}
 
@@ -8,6 +8,10 @@ function loadText(filename, callback ) {
     if (e == null) { //not found locally
       // Load it from the network
       var request = new XMLHttpRequest();
+
+      if( dataType ){
+         request.responseType = dataType;
+      }
 
       request.open('GET', filename, true);
       //request.responseType = 'arraybuffer';

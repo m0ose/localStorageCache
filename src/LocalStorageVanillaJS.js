@@ -2,7 +2,7 @@
 
 function loadText(filename, callback, dataType ) {
 
-  callback = callback || function(e){}
+  callback = callback || function(e){ console.error('failed to load', filename) }
 
   localforage.getItem(filename).then( function(e){
     if (e == null) { //not found locally
@@ -29,7 +29,6 @@ function loadText(filename, callback, dataType ) {
 
             callback(request.response)
           } else {
-            console.error('failed to load', filename)
             callback(null, request.statusText)
           }
         }
@@ -45,7 +44,7 @@ function loadText(filename, callback, dataType ) {
 
 var loadImg = function(filename, callback ) {
 
-  callback = callback || function(){}
+  callback = callback || function(){ console.error('image failed to load')}
 
   localforage.getItem(filename).then(
     function(e) {
@@ -66,7 +65,6 @@ var loadImg = function(filename, callback ) {
 
         // call onerror if the image can't be found
         img.onerror = function(e) {
-          console.error('image failed to load')
           callback(null, e)
         }
 
